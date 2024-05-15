@@ -1,0 +1,531 @@
+{
+  "data": {
+    "ipv4_addresses": [
+      "141.193.213.10",
+      "141.193.213.11"
+    ]
+  },
+  "name": "about.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.22.63.68",
+      "172.67.41.8",
+      "104.22.62.68"
+    ]
+  },
+  "name": "careers.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "a4.images.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "142.250.72.179"
+    ]
+  },
+  "name": "appengine.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "141.193.213.11",
+      "141.193.213.10"
+    ]
+  },
+  "name": "news.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "50.112.184.49",
+      "34.210.147.217",
+      "44.237.41.110"
+    ]
+  },
+  "name": "api.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.67.41.8",
+      "104.22.63.68",
+      "104.22.62.68"
+    ]
+  },
+  "name": "info.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "a5.images.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "a2.images.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "cf-ssl61306-protected-www.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.67.41.8",
+      "104.22.62.68",
+      "104.22.63.68"
+    ]
+  },
+  "name": "lb.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "167.89.115.120",
+      "167.89.118.120",
+      "167.89.115.56",
+      "167.89.118.52",
+      "167.89.115.150",
+      "167.89.118.83"
+    ]
+  },
+  "name": "sg.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.67.41.8",
+      "104.22.63.68",
+      "104.22.62.68"
+    ]
+  },
+  "name": "info2.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "new.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "a3.images.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "autocomplete.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "18.211.124.195",
+      "34.234.40.151",
+      "3.223.93.194"
+    ]
+  },
+  "name": "links.email.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "newsadmin.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.22.62.68",
+      "104.22.63.68",
+      "172.67.41.8"
+    ]
+  },
+  "name": "blog.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.16.242.118",
+      "104.16.241.118"
+    ]
+  },
+  "name": "data.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "a1.images.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "direct.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "54.245.242.37",
+      "44.227.181.49",
+      "44.241.156.157"
+    ]
+  },
+  "name": "sp.email.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "44.237.41.110",
+      "50.112.184.49",
+      "34.210.147.217"
+    ]
+  },
+  "name": "partner.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "3.163.125.55",
+      "3.163.125.96",
+      "3.163.125.13",
+      "3.163.125.6"
+    ]
+  },
+  "name": "preferences.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.67.41.8",
+      "104.22.62.68",
+      "104.22.63.68"
+    ]
+  },
+  "name": "www.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {},
+  "name": "cm.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "staging.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {},
+  "name": "distil.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "142.250.188.243"
+    ]
+  },
+  "name": "start.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {},
+  "name": "stagepro.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "74.201.205.232"
+    ]
+  },
+  "name": "search-3.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.67.41.8",
+      "104.22.62.68",
+      "104.22.63.68"
+    ]
+  },
+  "name": "crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {},
+  "name": "next.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "tagepro.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "www.about.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "142.250.64.147"
+    ]
+  },
+  "name": "drive.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "99.84.203.74",
+      "99.84.203.31",
+      "99.84.203.128",
+      "99.84.203.69"
+    ]
+  },
+  "name": "images2.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "167.89.115.150",
+      "167.89.115.56",
+      "167.89.115.120",
+      "167.89.118.52",
+      "167.89.118.120",
+      "167.89.118.83"
+    ]
+  },
+  "name": "em.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.22.62.68",
+      "172.67.41.8",
+      "104.22.63.68"
+    ]
+  },
+  "name": "jobs.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "44.242.41.110",
+      "44.235.157.175"
+    ]
+  },
+  "name": "pro.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "52.4.222.229",
+      "54.175.114.233",
+      "52.2.143.224"
+    ]
+  },
+  "name": "salesloft.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.16.53.111",
+      "104.16.51.111"
+    ]
+  },
+  "name": "support.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "name": "nfews.crunchbase.com",
+  "status": "NXDOMAIN",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "99.84.203.31",
+      "99.84.203.69",
+      "99.84.203.128",
+      "99.84.203.74"
+    ]
+  },
+  "name": "public2.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "52.184.251.130"
+    ]
+  },
+  "name": "go.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "44.238.185.31",
+      "52.25.221.106",
+      "34.223.160.24"
+    ]
+  },
+  "name": "static.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "99.84.203.128",
+      "99.84.203.69",
+      "99.84.203.31",
+      "99.84.203.74"
+    ]
+  },
+  "name": "public.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.255.116.112"
+    ]
+  },
+  "name": "search-1.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "54.225.32.121",
+      "44.214.12.56",
+      "54.197.129.142"
+    ]
+  },
+  "name": "developer.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "104.17.73.206",
+      "104.17.71.206",
+      "104.17.72.206",
+      "104.17.70.206",
+      "104.17.74.206"
+    ]
+  },
+  "name": "pages.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:22-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "3.222.82.214",
+      "3.226.166.212",
+      "107.20.71.201"
+    ]
+  },
+  "name": "link.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:37-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "99.84.203.31",
+      "99.84.203.74",
+      "99.84.203.69",
+      "99.84.203.128"
+    ]
+  },
+  "name": "images.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:37-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "172.255.116.83"
+    ]
+  },
+  "name": "search-2.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:37-07:00"
+}
+{
+  "data": {
+    "ipv4_addresses": [
+      "76.223.20.182",
+      "13.248.148.52"
+    ]
+  },
+  "name": "horizon.crunchbase.com",
+  "status": "NOERROR",
+  "timestamp": "2024-05-14T20:29:37-07:00"
+}
